@@ -1,0 +1,4 @@
+interface:
+  display_name: "MACD Analysis"
+  short_description: "Risk-aware MACD interpretation from charts or OHLCV data"
+  default_prompt: "Use $macd to evaluate the supplied market data. Separate observations from interpretation, include confirmation and invalidation conditions, and do not treat MACD as a standalone buy/sell signal."
