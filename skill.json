@@ -1,0 +1,5 @@
+{
+  "name": "macd",
+  "description": "Analyze MACD conservatively from OHLCV data or charts with reproducible calculations and scenario-based risk framing",
+  "version": "0.1.0"
+}
